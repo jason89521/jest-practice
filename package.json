@@ -1,0 +1,19 @@
+{
+  "name": "jest-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch:test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "@types/jest": "^27.0.3"
+  }
+}
